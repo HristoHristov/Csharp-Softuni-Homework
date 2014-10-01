@@ -1,0 +1,6 @@
+E:\SoftuniProject\Loops\08. Catalan Numbers\bin\Debug\_08.Catalan_Numbers.exe.config
+E:\SoftuniProject\Loops\08. Catalan Numbers\bin\Debug\_08.Catalan_Numbers.exe
+E:\SoftuniProject\Loops\08. Catalan Numbers\bin\Debug\_08.Catalan_Numbers.pdb
+E:\SoftuniProject\Loops\08. Catalan Numbers\obj\Debug\08. Catalan Numbers.csprojResolveAssemblyReference.cache
+E:\SoftuniProject\Loops\08. Catalan Numbers\obj\Debug\_08.Catalan_Numbers.exe
+E:\SoftuniProject\Loops\08. Catalan Numbers\obj\Debug\_08.Catalan_Numbers.pdb

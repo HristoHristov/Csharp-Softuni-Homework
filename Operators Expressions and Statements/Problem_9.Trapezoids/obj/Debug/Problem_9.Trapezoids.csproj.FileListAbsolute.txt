@@ -1,0 +1,5 @@
+E:\SoftuniProject\Operators Expressions and Statements\Problem_9.Trapezoids\bin\Debug\Problem_9.Trapezoids.exe.config
+E:\SoftuniProject\Operators Expressions and Statements\Problem_9.Trapezoids\bin\Debug\Problem_9.Trapezoids.exe
+E:\SoftuniProject\Operators Expressions and Statements\Problem_9.Trapezoids\bin\Debug\Problem_9.Trapezoids.pdb
+E:\SoftuniProject\Operators Expressions and Statements\Problem_9.Trapezoids\obj\Debug\Problem_9.Trapezoids.exe
+E:\SoftuniProject\Operators Expressions and Statements\Problem_9.Trapezoids\obj\Debug\Problem_9.Trapezoids.pdb

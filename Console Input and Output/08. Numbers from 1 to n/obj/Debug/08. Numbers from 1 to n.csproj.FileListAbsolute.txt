@@ -1,0 +1,5 @@
+E:\SoftuniProject\Console Input and Output\08. Numbers from 1 to n\bin\Debug\_08.Numbers_from_1_to_n.exe.config
+E:\SoftuniProject\Console Input and Output\08. Numbers from 1 to n\bin\Debug\_08.Numbers_from_1_to_n.exe
+E:\SoftuniProject\Console Input and Output\08. Numbers from 1 to n\bin\Debug\_08.Numbers_from_1_to_n.pdb
+E:\SoftuniProject\Console Input and Output\08. Numbers from 1 to n\obj\Debug\_08.Numbers_from_1_to_n.exe
+E:\SoftuniProject\Console Input and Output\08. Numbers from 1 to n\obj\Debug\_08.Numbers_from_1_to_n.pdb

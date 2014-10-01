@@ -1,0 +1,5 @@
+E:\SoftuniProject\Operators Expressions and Statements\Problem 13. Check a Bit at Given Position\bin\Debug\Problem_13.Check_a_Bit_at_Given_Position.exe.config
+E:\SoftuniProject\Operators Expressions and Statements\Problem 13. Check a Bit at Given Position\bin\Debug\Problem_13.Check_a_Bit_at_Given_Position.exe
+E:\SoftuniProject\Operators Expressions and Statements\Problem 13. Check a Bit at Given Position\bin\Debug\Problem_13.Check_a_Bit_at_Given_Position.pdb
+E:\SoftuniProject\Operators Expressions and Statements\Problem 13. Check a Bit at Given Position\obj\Debug\Problem_13.Check_a_Bit_at_Given_Position.exe
+E:\SoftuniProject\Operators Expressions and Statements\Problem 13. Check a Bit at Given Position\obj\Debug\Problem_13.Check_a_Bit_at_Given_Position.pdb

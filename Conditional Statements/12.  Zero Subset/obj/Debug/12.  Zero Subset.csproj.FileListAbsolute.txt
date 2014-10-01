@@ -1,0 +1,6 @@
+E:\SoftuniProject\Conditional Statements\12.  Zero Subset\bin\Debug\_12.Zero_Subset.exe.config
+E:\SoftuniProject\Conditional Statements\12.  Zero Subset\bin\Debug\_12.Zero_Subset.exe
+E:\SoftuniProject\Conditional Statements\12.  Zero Subset\bin\Debug\_12.Zero_Subset.pdb
+E:\SoftuniProject\Conditional Statements\12.  Zero Subset\obj\Debug\_12.Zero_Subset.exe
+E:\SoftuniProject\Conditional Statements\12.  Zero Subset\obj\Debug\_12.Zero_Subset.pdb
+E:\SoftuniProject\Conditional Statements\12.  Zero Subset\obj\Debug\12.  Zero Subset.csprojResolveAssemblyReference.cache

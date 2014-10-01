@@ -1,0 +1,6 @@
+E:\SoftuniProject\Loops\18.  Trailing Zeroes in N!\bin\Debug\_18.Trailing_Zeroes_in_N_.exe.config
+E:\SoftuniProject\Loops\18.  Trailing Zeroes in N!\bin\Debug\_18.Trailing_Zeroes_in_N_.exe
+E:\SoftuniProject\Loops\18.  Trailing Zeroes in N!\bin\Debug\_18.Trailing_Zeroes_in_N_.pdb
+E:\SoftuniProject\Loops\18.  Trailing Zeroes in N!\obj\Debug\18.  Trailing Zeroes in N!.csprojResolveAssemblyReference.cache
+E:\SoftuniProject\Loops\18.  Trailing Zeroes in N!\obj\Debug\_18.Trailing_Zeroes_in_N_.exe
+E:\SoftuniProject\Loops\18.  Trailing Zeroes in N!\obj\Debug\_18.Trailing_Zeroes_in_N_.pdb

@@ -1,0 +1,6 @@
+E:\SoftuniProject\Conditional Statements\01. Exchange If Greater\bin\Debug\_01.Exchange_If_Greater.exe.config
+E:\SoftuniProject\Conditional Statements\01. Exchange If Greater\bin\Debug\_01.Exchange_If_Greater.exe
+E:\SoftuniProject\Conditional Statements\01. Exchange If Greater\bin\Debug\_01.Exchange_If_Greater.pdb
+E:\SoftuniProject\Conditional Statements\01. Exchange If Greater\obj\Debug\01. Exchange If Greater.csprojResolveAssemblyReference.cache
+E:\SoftuniProject\Conditional Statements\01. Exchange If Greater\obj\Debug\_01.Exchange_If_Greater.exe
+E:\SoftuniProject\Conditional Statements\01. Exchange If Greater\obj\Debug\_01.Exchange_If_Greater.pdb

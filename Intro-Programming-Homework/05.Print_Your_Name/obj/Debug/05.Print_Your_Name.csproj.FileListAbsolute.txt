@@ -1,0 +1,9 @@
+E:\SoftuniProject\Intro-Programming-Homework\05.Print_Your_Name\bin\Debug\05.Print_Your_Name.exe.config
+E:\SoftuniProject\Intro-Programming-Homework\05.Print_Your_Name\bin\Debug\05.Print_Your_Name.exe
+E:\SoftuniProject\Intro-Programming-Homework\05.Print_Your_Name\bin\Debug\05.Print_Your_Name.pdb
+E:\SoftuniProject\Intro-Programming-Homework\05.Print_Your_Name\obj\Debug\05.Print_Your_Name.csprojResolveAssemblyReference.cache
+E:\SoftuniProject\Intro-Programming-Homework\05.Print_Your_Name\obj\Debug\05.Print_Your_Name.exe
+E:\SoftuniProject\Intro-Programming-Homework\05.Print_Your_Name\obj\Debug\05.Print_Your_Name.pdb
+E:\SoftuniProjectPC\Intro-Programming-Homework\05.Print_Your_Name\bin\Debug\05.Print_Your_Name.exe.config
+E:\SoftuniProjectPC\Intro-Programming-Homework\05.Print_Your_Name\obj\Debug\05.Print_Your_Name.exe
+E:\SoftuniProjectPC\Intro-Programming-Homework\05.Print_Your_Name\obj\Debug\05.Print_Your_Name.pdb

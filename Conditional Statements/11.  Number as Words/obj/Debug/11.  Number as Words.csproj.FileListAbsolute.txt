@@ -1,0 +1,6 @@
+E:\SoftuniProject\Conditional Statements\11.  Number as Words\bin\Debug\_11.Number_as_Words.exe.config
+E:\SoftuniProject\Conditional Statements\11.  Number as Words\bin\Debug\_11.Number_as_Words.exe
+E:\SoftuniProject\Conditional Statements\11.  Number as Words\bin\Debug\_11.Number_as_Words.pdb
+E:\SoftuniProject\Conditional Statements\11.  Number as Words\obj\Debug\11.  Number as Words.csprojResolveAssemblyReference.cache
+E:\SoftuniProject\Conditional Statements\11.  Number as Words\obj\Debug\_11.Number_as_Words.exe
+E:\SoftuniProject\Conditional Statements\11.  Number as Words\obj\Debug\_11.Number_as_Words.pdb

@@ -1,0 +1,8 @@
+E:\SoftuniProject\Intro-Programming-Homework\06. Print_Numbers\bin\Debug\_06.Print_Numbers.exe.config
+E:\SoftuniProject\Intro-Programming-Homework\06. Print_Numbers\bin\Debug\_06.Print_Numbers.exe
+E:\SoftuniProject\Intro-Programming-Homework\06. Print_Numbers\bin\Debug\_06.Print_Numbers.pdb
+E:\SoftuniProject\Intro-Programming-Homework\06. Print_Numbers\obj\Debug\_06.Print_Numbers.exe
+E:\SoftuniProject\Intro-Programming-Homework\06. Print_Numbers\obj\Debug\_06.Print_Numbers.pdb
+E:\SoftuniProjectPC\Intro-Programming-Homework\06. Print_Numbers\bin\Debug\_06.Print_Numbers.exe.config
+E:\SoftuniProjectPC\Intro-Programming-Homework\06. Print_Numbers\obj\Debug\_06.Print_Numbers.exe
+E:\SoftuniProjectPC\Intro-Programming-Homework\06. Print_Numbers\obj\Debug\_06.Print_Numbers.pdb

@@ -1,0 +1,6 @@
+E:\SoftuniProject\Conditional Statements\03. Check for a Play Card\bin\Debug\_03.Check_for_a_Play_Card.exe.config
+E:\SoftuniProject\Conditional Statements\03. Check for a Play Card\bin\Debug\_03.Check_for_a_Play_Card.exe
+E:\SoftuniProject\Conditional Statements\03. Check for a Play Card\bin\Debug\_03.Check_for_a_Play_Card.pdb
+E:\SoftuniProject\Conditional Statements\03. Check for a Play Card\obj\Debug\03. Check for a Play Card.csprojResolveAssemblyReference.cache
+E:\SoftuniProject\Conditional Statements\03. Check for a Play Card\obj\Debug\_03.Check_for_a_Play_Card.exe
+E:\SoftuniProject\Conditional Statements\03. Check for a Play Card\obj\Debug\_03.Check_for_a_Play_Card.pdb

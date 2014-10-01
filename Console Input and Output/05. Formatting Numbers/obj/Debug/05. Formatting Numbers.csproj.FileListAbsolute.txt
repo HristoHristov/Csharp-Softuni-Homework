@@ -1,0 +1,6 @@
+E:\SoftuniProject\Console Input and Output\05. Formatting Numbers\bin\Debug\_05.Formatting_Numbers.exe.config
+E:\SoftuniProject\Console Input and Output\05. Formatting Numbers\bin\Debug\_05.Formatting_Numbers.exe
+E:\SoftuniProject\Console Input and Output\05. Formatting Numbers\bin\Debug\_05.Formatting_Numbers.pdb
+E:\SoftuniProject\Console Input and Output\05. Formatting Numbers\obj\Debug\_05.Formatting_Numbers.exe
+E:\SoftuniProject\Console Input and Output\05. Formatting Numbers\obj\Debug\_05.Formatting_Numbers.pdb
+E:\SoftuniProject\Console Input and Output\05. Formatting Numbers\obj\Debug\05. Formatting Numbers.csprojResolveAssemblyReference.cache

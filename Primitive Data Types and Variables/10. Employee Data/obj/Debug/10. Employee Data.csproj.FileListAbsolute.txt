@@ -1,0 +1,5 @@
+E:\SoftuniProject\Primitive Data Types and Variables\10. Employee Data\bin\Debug\_10.Employee_Data.exe.config
+E:\SoftuniProject\Primitive Data Types and Variables\10. Employee Data\bin\Debug\_10.Employee_Data.exe
+E:\SoftuniProject\Primitive Data Types and Variables\10. Employee Data\bin\Debug\_10.Employee_Data.pdb
+E:\SoftuniProject\Primitive Data Types and Variables\10. Employee Data\obj\Debug\_10.Employee_Data.exe
+E:\SoftuniProject\Primitive Data Types and Variables\10. Employee Data\obj\Debug\_10.Employee_Data.pdb

@@ -1,0 +1,5 @@
+E:\SoftuniProject\Operators Expressions and Statements\01. Odd or Even Integers\bin\Debug\_01.Odd_or_Even_Integers.exe.config
+E:\SoftuniProject\Operators Expressions and Statements\01. Odd or Even Integers\bin\Debug\_01.Odd_or_Even_Integers.exe
+E:\SoftuniProject\Operators Expressions and Statements\01. Odd or Even Integers\bin\Debug\_01.Odd_or_Even_Integers.pdb
+E:\SoftuniProject\Operators Expressions and Statements\01. Odd or Even Integers\obj\Debug\_01.Odd_or_Even_Integers.exe
+E:\SoftuniProject\Operators Expressions and Statements\01. Odd or Even Integers\obj\Debug\_01.Odd_or_Even_Integers.pdb

@@ -1,0 +1,8 @@
+E:\SoftuniProject\Intro-Programming-Homework\14. Current date\bin\Debug\_14.Current_date.exe.config
+E:\SoftuniProject\Intro-Programming-Homework\14. Current date\bin\Debug\_14.Current_date.exe
+E:\SoftuniProject\Intro-Programming-Homework\14. Current date\bin\Debug\_14.Current_date.pdb
+E:\SoftuniProject\Intro-Programming-Homework\14. Current date\obj\Debug\_14.Current_date.exe
+E:\SoftuniProject\Intro-Programming-Homework\14. Current date\obj\Debug\_14.Current_date.pdb
+E:\SoftuniProjectPC\Intro-Programming-Homework\14. Current date\bin\Debug\_14.Current_date.exe.config
+E:\SoftuniProjectPC\Intro-Programming-Homework\14. Current date\obj\Debug\_14.Current_date.exe
+E:\SoftuniProjectPC\Intro-Programming-Homework\14. Current date\obj\Debug\_14.Current_date.pdb

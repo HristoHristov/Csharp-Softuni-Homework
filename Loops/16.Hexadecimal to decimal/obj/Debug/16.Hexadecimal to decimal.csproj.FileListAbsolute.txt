@@ -1,0 +1,5 @@
+E:\SoftuniProject\Loops\16.Hexadecimal to decimal\bin\Debug\16.Hexadecimal to decimal.exe.config
+E:\SoftuniProject\Loops\16.Hexadecimal to decimal\bin\Debug\16.Hexadecimal to decimal.exe
+E:\SoftuniProject\Loops\16.Hexadecimal to decimal\bin\Debug\16.Hexadecimal to decimal.pdb
+E:\SoftuniProject\Loops\16.Hexadecimal to decimal\obj\Debug\16.Hexadecimal to decimal.exe
+E:\SoftuniProject\Loops\16.Hexadecimal to decimal\obj\Debug\16.Hexadecimal to decimal.pdb

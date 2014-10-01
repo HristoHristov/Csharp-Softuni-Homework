@@ -1,0 +1,6 @@
+E:\SoftuniProject\Operators Expressions and Statements\08. Prime number\bin\Debug\_08.Prime_number.exe.config
+E:\SoftuniProject\Operators Expressions and Statements\08. Prime number\bin\Debug\_08.Prime_number.exe
+E:\SoftuniProject\Operators Expressions and Statements\08. Prime number\bin\Debug\_08.Prime_number.pdb
+E:\SoftuniProject\Operators Expressions and Statements\08. Prime number\obj\Debug\08. Prime number.csprojResolveAssemblyReference.cache
+E:\SoftuniProject\Operators Expressions and Statements\08. Prime number\obj\Debug\_08.Prime_number.exe
+E:\SoftuniProject\Operators Expressions and Statements\08. Prime number\obj\Debug\_08.Prime_number.pdb

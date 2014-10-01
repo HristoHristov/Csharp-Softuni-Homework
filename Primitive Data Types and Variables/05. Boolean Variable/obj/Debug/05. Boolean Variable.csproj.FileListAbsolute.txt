@@ -1,0 +1,6 @@
+E:\SoftuniProject\Primitive Data Types and Variables\05. Boolean Variable\bin\Debug\_05.Boolean_Variable.exe.config
+E:\SoftuniProject\Primitive Data Types and Variables\05. Boolean Variable\obj\Debug\05. Boolean Variable.csprojResolveAssemblyReference.cache
+E:\SoftuniProject\Primitive Data Types and Variables\05. Boolean Variable\bin\Debug\_05.Boolean_Variable.exe
+E:\SoftuniProject\Primitive Data Types and Variables\05. Boolean Variable\bin\Debug\_05.Boolean_Variable.pdb
+E:\SoftuniProject\Primitive Data Types and Variables\05. Boolean Variable\obj\Debug\_05.Boolean_Variable.exe
+E:\SoftuniProject\Primitive Data Types and Variables\05. Boolean Variable\obj\Debug\_05.Boolean_Variable.pdb

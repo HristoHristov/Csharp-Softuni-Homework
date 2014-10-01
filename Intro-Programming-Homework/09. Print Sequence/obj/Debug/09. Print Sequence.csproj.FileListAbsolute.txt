@@ -1,0 +1,8 @@
+E:\SoftuniProject\Intro-Programming-Homework\09. Print Sequence\bin\Debug\_09.Print_Sequence.exe.config
+E:\SoftuniProject\Intro-Programming-Homework\09. Print Sequence\bin\Debug\_09.Print_Sequence.exe
+E:\SoftuniProject\Intro-Programming-Homework\09. Print Sequence\bin\Debug\_09.Print_Sequence.pdb
+E:\SoftuniProject\Intro-Programming-Homework\09. Print Sequence\obj\Debug\_09.Print_Sequence.exe
+E:\SoftuniProject\Intro-Programming-Homework\09. Print Sequence\obj\Debug\_09.Print_Sequence.pdb
+E:\SoftuniProjectPC\Intro-Programming-Homework\09. Print Sequence\bin\Debug\_09.Print_Sequence.exe.config
+E:\SoftuniProjectPC\Intro-Programming-Homework\09. Print Sequence\obj\Debug\_09.Print_Sequence.exe
+E:\SoftuniProjectPC\Intro-Programming-Homework\09. Print Sequence\obj\Debug\_09.Print_Sequence.pdb

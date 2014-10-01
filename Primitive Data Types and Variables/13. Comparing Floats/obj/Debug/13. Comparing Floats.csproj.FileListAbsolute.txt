@@ -1,0 +1,5 @@
+E:\SoftuniProject\Primitive Data Types and Variables\13. Comparing Floats\bin\Debug\_13.Comparing_Floats.exe.config
+E:\SoftuniProject\Primitive Data Types and Variables\13. Comparing Floats\bin\Debug\_13.Comparing_Floats.exe
+E:\SoftuniProject\Primitive Data Types and Variables\13. Comparing Floats\bin\Debug\_13.Comparing_Floats.pdb
+E:\SoftuniProject\Primitive Data Types and Variables\13. Comparing Floats\obj\Debug\_13.Comparing_Floats.exe
+E:\SoftuniProject\Primitive Data Types and Variables\13. Comparing Floats\obj\Debug\_13.Comparing_Floats.pdb

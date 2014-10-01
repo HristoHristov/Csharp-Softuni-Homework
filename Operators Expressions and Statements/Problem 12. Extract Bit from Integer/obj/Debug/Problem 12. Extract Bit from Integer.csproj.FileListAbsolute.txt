@@ -1,0 +1,5 @@
+E:\SoftuniProject\Operators Expressions and Statements\Problem 12. Extract Bit from Integer\bin\Debug\Problem_12.Extract_Bit_from_Integer.exe.config
+E:\SoftuniProject\Operators Expressions and Statements\Problem 12. Extract Bit from Integer\bin\Debug\Problem_12.Extract_Bit_from_Integer.exe
+E:\SoftuniProject\Operators Expressions and Statements\Problem 12. Extract Bit from Integer\bin\Debug\Problem_12.Extract_Bit_from_Integer.pdb
+E:\SoftuniProject\Operators Expressions and Statements\Problem 12. Extract Bit from Integer\obj\Debug\Problem_12.Extract_Bit_from_Integer.exe
+E:\SoftuniProject\Operators Expressions and Statements\Problem 12. Extract Bit from Integer\obj\Debug\Problem_12.Extract_Bit_from_Integer.pdb

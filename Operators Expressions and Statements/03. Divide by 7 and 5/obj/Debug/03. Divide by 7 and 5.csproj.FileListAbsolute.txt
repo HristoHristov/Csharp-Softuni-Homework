@@ -1,0 +1,5 @@
+E:\SoftuniProject\Operators Expressions and Statements\03. Divide by 7 and 5\bin\Debug\_03.Divide_by_7_and_5.exe.config
+E:\SoftuniProject\Operators Expressions and Statements\03. Divide by 7 and 5\bin\Debug\_03.Divide_by_7_and_5.exe
+E:\SoftuniProject\Operators Expressions and Statements\03. Divide by 7 and 5\bin\Debug\_03.Divide_by_7_and_5.pdb
+E:\SoftuniProject\Operators Expressions and Statements\03. Divide by 7 and 5\obj\Debug\_03.Divide_by_7_and_5.exe
+E:\SoftuniProject\Operators Expressions and Statements\03. Divide by 7 and 5\obj\Debug\_03.Divide_by_7_and_5.pdb

@@ -1,0 +1,51 @@
+The most popular programming languages are:
+
+- Java;
+- C++;
+- PHP;
+- Python;
+- C;
+
+1. Java- is a computer programming language that is concurrent, class-based,object-oriented, and specifically designed to 
+   have as few implementation dependencies as possible. It is intended to let application developers "write once, run 
+   anywhere" (WORA), meaning that code that runs on one platform does not need to be recompiled to run on another. 
+   Java applications are typically compiled to bytecode (class file) that can run on any Java virtual machine (JVM) 
+   regardless of computer architecture.
+
+2. C++ - is a general purpose programming language. It has imperative, object-oriented and generic programming features,
+   while also providing the facilities for low level memory manipulation.
+   It is designed with a bias for systems programming (e.g. embedded systems, operating system kernels), with performance,
+   efficiency and flexibility of use as its design requirements.” C++” has also been found useful in many other contexts,
+   including desktop applications, servers (e.g. e-commerce, web search, SQL), performance critical applications 
+   (e.g. telephone switches, space probes) and entertainment software, such as video games.
+   similarities between C#,Java and C++: 
+   both have system garbage collection (C++ does not - you have to allocate and deallocate memory for objects).
+   oth have strict compiler conditions which are checked such as array indexes, initialisation of variables before use etc
+   (I believe that C++ only checks syntax, resulting in many run-time errors).
+   both have large API's and documentation.
+   Difference:
+   C# does not support multiple inheritance 
+   C# assemblies contain metadata about the code, allowing for run-time inspection. C++ does not contain this metadata, 
+   so the best you can do is fancy template programming.
+	
+3. PHP- is a server-side scripting language designed for web development but also used as a general-purpose programming 
+   language. As of January 2013, PHP was installed on more than 240 million websites (39% of those sampled) and
+   2.1 million web servers.Originally created by Rasmus Lerdorf in 1994,the reference implementation of PHP 
+   (powered by the Zend Engine) is now produced by The PHP Group. PHP code can be simply mixed with HTML code,
+   or it can be used in combination with various templating engines and web frameworks.
+
+4. Python - is a widely used general-purpose, high-level programming language.[15][16][17] Its design philosophy emphasizes
+   code readability, and its syntax allows programmers to express concepts in fewer lines of code than would be possible
+   in languages such as C. The language provides constructs intended to enable clear programs on both a small and 
+   large scale.
+   Python supports multiple programming paradigms, including object-oriented, imperative and functional programming or
+   procedural styles. It features a dynamic type system and automatic memory management and has a large and comprehensive
+   standard library.
+   
+
+5. C- is a general-purpose programming language initially developed by Dennis Ritchie between 1969 and 1973 at AT&T Bell Labs.
+   Like most imperative languages in the ALGOL tradition, C has facilities for structured programming and allows lexical
+   variable scope and recursion, while a static type system prevents many unintended operations.
+   Its design provides constructs that map efficiently to typical machine instructions, and therefore it has found lasting
+   use in applications that had formerly been coded in assembly language, most notably system software like the Unix computer
+   operating system.

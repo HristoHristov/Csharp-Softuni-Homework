@@ -1,0 +1,6 @@
+E:\SoftuniProject\Loops\Calculate N! div K! x (N-K)!\bin\Debug\Calculate N! div K! x (N-K)!.exe.config
+E:\SoftuniProject\Loops\Calculate N! div K! x (N-K)!\bin\Debug\Calculate N! div K! x (N-K)!.exe
+E:\SoftuniProject\Loops\Calculate N! div K! x (N-K)!\bin\Debug\Calculate N! div K! x (N-K)!.pdb
+E:\SoftuniProject\Loops\Calculate N! div K! x (N-K)!\obj\Debug\Calculate N! div K! x (N-K)!.csprojResolveAssemblyReference.cache
+E:\SoftuniProject\Loops\Calculate N! div K! x (N-K)!\obj\Debug\Calculate N! div K! x (N-K)!.exe
+E:\SoftuniProject\Loops\Calculate N! div K! x (N-K)!\obj\Debug\Calculate N! div K! x (N-K)!.pdb

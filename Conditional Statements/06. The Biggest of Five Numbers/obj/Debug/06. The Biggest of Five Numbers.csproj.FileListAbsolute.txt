@@ -1,0 +1,6 @@
+E:\SoftuniProject\Conditional Statements\06. The Biggest of Five Numbers\bin\Debug\_06.The_Biggest_of_Five_Numbers.exe.config
+E:\SoftuniProject\Conditional Statements\06. The Biggest of Five Numbers\bin\Debug\_06.The_Biggest_of_Five_Numbers.exe
+E:\SoftuniProject\Conditional Statements\06. The Biggest of Five Numbers\bin\Debug\_06.The_Biggest_of_Five_Numbers.pdb
+E:\SoftuniProject\Conditional Statements\06. The Biggest of Five Numbers\obj\Debug\_06.The_Biggest_of_Five_Numbers.exe
+E:\SoftuniProject\Conditional Statements\06. The Biggest of Five Numbers\obj\Debug\_06.The_Biggest_of_Five_Numbers.pdb
+E:\SoftuniProject\Conditional Statements\06. The Biggest of Five Numbers\obj\Debug\06. The Biggest of Five Numbers.csprojResolveAssemblyReference.cache

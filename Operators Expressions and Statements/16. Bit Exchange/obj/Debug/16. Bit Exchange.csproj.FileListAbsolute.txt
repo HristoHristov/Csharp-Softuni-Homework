@@ -1,0 +1,6 @@
+E:\SoftuniProject\Operators Expressions and Statements\16. Bit Exchange\bin\Debug\_16.Bit_Exchange.exe.config
+E:\SoftuniProject\Operators Expressions and Statements\16. Bit Exchange\bin\Debug\_16.Bit_Exchange.exe
+E:\SoftuniProject\Operators Expressions and Statements\16. Bit Exchange\bin\Debug\_16.Bit_Exchange.pdb
+E:\SoftuniProject\Operators Expressions and Statements\16. Bit Exchange\obj\Debug\_16.Bit_Exchange.exe
+E:\SoftuniProject\Operators Expressions and Statements\16. Bit Exchange\obj\Debug\_16.Bit_Exchange.pdb
+E:\SoftuniProject\Operators Expressions and Statements\16. Bit Exchange\obj\Debug\16. Bit Exchange.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+E:\SoftuniProject\Loops\10. Odd and Even Product\bin\Debug\_10.Odd_and_Even_Product.exe.config
+E:\SoftuniProject\Loops\10. Odd and Even Product\bin\Debug\_10.Odd_and_Even_Product.exe
+E:\SoftuniProject\Loops\10. Odd and Even Product\bin\Debug\_10.Odd_and_Even_Product.pdb
+E:\SoftuniProject\Loops\10. Odd and Even Product\obj\Debug\_10.Odd_and_Even_Product.exe
+E:\SoftuniProject\Loops\10. Odd and Even Product\obj\Debug\_10.Odd_and_Even_Product.pdb

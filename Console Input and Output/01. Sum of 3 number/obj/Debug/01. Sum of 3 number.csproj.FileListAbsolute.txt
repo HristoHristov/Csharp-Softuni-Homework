@@ -1,0 +1,6 @@
+E:\SoftuniProject\Console Input and Output\01. Sum of 3 number\bin\Debug\_01.Sum_of_3_number.exe.config
+E:\SoftuniProject\Console Input and Output\01. Sum of 3 number\bin\Debug\_01.Sum_of_3_number.exe
+E:\SoftuniProject\Console Input and Output\01. Sum of 3 number\bin\Debug\_01.Sum_of_3_number.pdb
+E:\SoftuniProject\Console Input and Output\01. Sum of 3 number\obj\Debug\01. Sum of 3 number.csprojResolveAssemblyReference.cache
+E:\SoftuniProject\Console Input and Output\01. Sum of 3 number\obj\Debug\_01.Sum_of_3_number.exe
+E:\SoftuniProject\Console Input and Output\01. Sum of 3 number\obj\Debug\_01.Sum_of_3_number.pdb

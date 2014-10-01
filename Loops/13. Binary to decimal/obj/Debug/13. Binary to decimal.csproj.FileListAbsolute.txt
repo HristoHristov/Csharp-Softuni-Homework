@@ -1,0 +1,5 @@
+E:\SoftuniProject\Loops\13. Binary to decimal\bin\Debug\_13.Binary_to_decimal.exe.config
+E:\SoftuniProject\Loops\13. Binary to decimal\bin\Debug\_13.Binary_to_decimal.exe
+E:\SoftuniProject\Loops\13. Binary to decimal\bin\Debug\_13.Binary_to_decimal.pdb
+E:\SoftuniProject\Loops\13. Binary to decimal\obj\Debug\_13.Binary_to_decimal.exe
+E:\SoftuniProject\Loops\13. Binary to decimal\obj\Debug\_13.Binary_to_decimal.pdb

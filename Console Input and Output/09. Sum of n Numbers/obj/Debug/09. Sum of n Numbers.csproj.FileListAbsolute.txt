@@ -1,0 +1,5 @@
+E:\SoftuniProject\Console Input and Output\09. Sum of n Numbers\bin\Debug\_09.Sum_of_n_Numbers.exe.config
+E:\SoftuniProject\Console Input and Output\09. Sum of n Numbers\bin\Debug\_09.Sum_of_n_Numbers.exe
+E:\SoftuniProject\Console Input and Output\09. Sum of n Numbers\bin\Debug\_09.Sum_of_n_Numbers.pdb
+E:\SoftuniProject\Console Input and Output\09. Sum of n Numbers\obj\Debug\_09.Sum_of_n_Numbers.exe
+E:\SoftuniProject\Console Input and Output\09. Sum of n Numbers\obj\Debug\_09.Sum_of_n_Numbers.pdb

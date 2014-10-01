@@ -1,0 +1,5 @@
+E:\SoftuniProject\Operators Expressions and Statements\14. Modify a bit\bin\Debug\_14.Modify_a_bit.exe.config
+E:\SoftuniProject\Operators Expressions and Statements\14. Modify a bit\bin\Debug\_14.Modify_a_bit.exe
+E:\SoftuniProject\Operators Expressions and Statements\14. Modify a bit\bin\Debug\_14.Modify_a_bit.pdb
+E:\SoftuniProject\Operators Expressions and Statements\14. Modify a bit\obj\Debug\_14.Modify_a_bit.exe
+E:\SoftuniProject\Operators Expressions and Statements\14. Modify a bit\obj\Debug\_14.Modify_a_bit.pdb

@@ -1,0 +1,6 @@
+E:\SoftuniProject\Primitive Data Types and Variables\03. Variable in Hexadecimal Format\bin\Debug\_03.Variable_in_Hexadecimal_Format.exe.config
+E:\SoftuniProject\Primitive Data Types and Variables\03. Variable in Hexadecimal Format\bin\Debug\_03.Variable_in_Hexadecimal_Format.exe
+E:\SoftuniProject\Primitive Data Types and Variables\03. Variable in Hexadecimal Format\bin\Debug\_03.Variable_in_Hexadecimal_Format.pdb
+E:\SoftuniProject\Primitive Data Types and Variables\03. Variable in Hexadecimal Format\obj\Debug\03. Variable in Hexadecimal Format.csprojResolveAssemblyReference.cache
+E:\SoftuniProject\Primitive Data Types and Variables\03. Variable in Hexadecimal Format\obj\Debug\_03.Variable_in_Hexadecimal_Format.exe
+E:\SoftuniProject\Primitive Data Types and Variables\03. Variable in Hexadecimal Format\obj\Debug\_03.Variable_in_Hexadecimal_Format.pdb

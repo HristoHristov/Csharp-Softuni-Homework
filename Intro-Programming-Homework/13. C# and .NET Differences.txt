@@ -1,0 +1,6 @@
+C# and C#.NET are the same thing. C#.NET is a library of code that .NET languages can talk to.
+ASP.NET is the portion of the .NET library used for making web sites.
+There are other subsections of ASP.NET like WebForms (the old way of making web pages) or the rapidly maturing MVC
+library that are worth looking at too.
+Forms (old tech) or the new WPF (Windows Presentation Foundation)
+are the technologies you'd typically use in .NET to create what you know as traditional desktop applications.

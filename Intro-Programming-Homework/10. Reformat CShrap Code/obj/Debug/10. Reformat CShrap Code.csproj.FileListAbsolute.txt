@@ -1,0 +1,9 @@
+E:\SoftuniProject\Intro-Programming-Homework\10. Reformat CShrap Code\bin\Debug\_10.Reformat_CShrap_Code.exe.config
+E:\SoftuniProject\Intro-Programming-Homework\10. Reformat CShrap Code\bin\Debug\_10.Reformat_CShrap_Code.exe
+E:\SoftuniProject\Intro-Programming-Homework\10. Reformat CShrap Code\bin\Debug\_10.Reformat_CShrap_Code.pdb
+E:\SoftuniProject\Intro-Programming-Homework\10. Reformat CShrap Code\obj\Debug\_10.Reformat_CShrap_Code.exe
+E:\SoftuniProject\Intro-Programming-Homework\10. Reformat CShrap Code\obj\Debug\_10.Reformat_CShrap_Code.pdb
+E:\SoftuniProject\Intro-Programming-Homework\10. Reformat CShrap Code\obj\Debug\10. Reformat CShrap Code.csprojResolveAssemblyReference.cache
+E:\SoftuniProjectPC\Intro-Programming-Homework\10. Reformat CShrap Code\bin\Debug\_10.Reformat_CShrap_Code.exe.config
+E:\SoftuniProjectPC\Intro-Programming-Homework\10. Reformat CShrap Code\obj\Debug\_10.Reformat_CShrap_Code.exe
+E:\SoftuniProjectPC\Intro-Programming-Homework\10. Reformat CShrap Code\obj\Debug\_10.Reformat_CShrap_Code.pdb
